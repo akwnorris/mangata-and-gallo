@@ -22,9 +22,6 @@ header {
 
 body {
     background: #f6f5f0;
-    min-width: fit-content;
-    margin: 0;
-    padding: 0;
 }
 
 
@@ -264,14 +261,14 @@ footer {
 
 @media screen and (max-width: 600px) {
     .promotion .pcontent h2 {
-        font-size: 2rem;
-    }
-
-    .promotion .pcontent p {
         font-size: 1rem;
     }
 
+    .promotion .pcontent p {
+        font-size: .5rem;
+    }
+
     button {
-        font-size: .8rem;
+        font-size: .5rem;
     }
 }
