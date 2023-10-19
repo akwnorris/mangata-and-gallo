@@ -267,4 +267,8 @@ footer {
     .promotion .pcontent p {
         font-size: 1rem;
     }
+
+    button {
+        font-size: .8rem;
+    }
 }
