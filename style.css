@@ -161,6 +161,7 @@ button {
     font-family: "Josefin Sans";
     font-weight: lighter;
     font-size: 95%;
+    -webkit-text-size-adjust: none;
 }
 
 .container .card:hover {
@@ -212,8 +213,9 @@ button {
 
 .container .card .content h2 {
     font-size: 1.5 em;
-    font-weight: 700;
+    font-weight: 500;
     color: var(--clr);
+    -webkit-text-size-adjust: none;
 }
 
 .container .card .content p {
