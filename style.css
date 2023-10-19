@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+.banner {
+    background-image: linear-gradient(to right, #e0d2ca, #d2c0b6);
+    padding: 15px;
+    position: static;
+    width: 100%;
+}
+
 .logo img {
     justify-content: center;
     display: block;
@@ -11,7 +18,7 @@
     margin-right: auto;
     width: 550px;
     height: auto;
-    padding-top: .4%;
+    padding-top: 2%;
     padding-bottom: 1%;
 }
 
