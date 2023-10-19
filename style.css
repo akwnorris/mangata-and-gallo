@@ -259,6 +259,7 @@ footer {
 
 /* fix copyright to match logo */
 
+/*
 @media screen and (max-width: 600px) {
     .promotion .pcontent h2 {
         font-size: 1rem;
@@ -272,3 +273,5 @@ footer {
         font-size: .5rem;
     }
 }
+
+ fonts not displaying properly on mobile device; need to look into further */
