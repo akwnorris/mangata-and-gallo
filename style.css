@@ -55,6 +55,8 @@ body {
 .nav a:hover {
     text-decoration: underline solid #c3939e;
     text-decoration-thickness: 2px;
+    -webkit-text-decoration: underline solid #c3939e;
+    -webkit-text-decoration-thickness: 2px;
 }
 
 .promotion {
@@ -130,6 +132,8 @@ button {
 	text-decoration: underline solid #c3939e;
 	box-shadow: 1px 1px 1px #e7d7c9;
     text-decoration-thickness: 2px;
+    -webkit-text-decoration: underline solid #c3939e;
+    -webkit-text-decoration-thickness: 2px;
 }
 
 
