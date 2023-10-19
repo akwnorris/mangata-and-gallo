@@ -4,10 +4,13 @@
     box-sizing: border-box;
 }
 
+
 .banner {
     background-image: linear-gradient(to right, #e0d2ca, #d2c0b6);
     padding: 15px;
-    position: static;
+    position: absolute;
+    left: 0;
+    top: 0;
     width: 100%;
 }
 
