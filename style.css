@@ -6,12 +6,13 @@
 
 
 .banner {
-    background-image: linear-gradient(to right, #e0d2ca, #d2c0b6);
+    background-image: linear-gradient(to right, #e0d2ca, #caa1aa, #cfbbb0);
     padding: 15px;
     position: absolute;
     left: 0;
     top: 0;
     width: 100%;
+    font-family: 'Josefin Sans';
 }
 
 .logo img {
