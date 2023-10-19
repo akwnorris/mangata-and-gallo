@@ -23,6 +23,8 @@ header {
 body {
     background: #f6f5f0;
     min-width: fit-content;
+    margin: 0;
+    padding: 0;
 }
 
 
