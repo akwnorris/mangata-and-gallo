@@ -279,24 +279,37 @@ footer {
 
 
 @media screen and (max-width: 600px) {
-    .nav {
-        flex-direction: column;
-        text-align: center;
+    header, .nav {
+        padding: 5% 0;
     }
-    
+
     .nav a {
         margin: 10px 0;
     }
 
-    .promotion .pcontent h2 {
-        font-size: 1.5em;
-    }
-    
-    .promotion .pcontent p {
-        font-size: 0.8em;
+    .promotion .pcontent h2, 
+    .promotion .pcontent p,
+    button {
+        font-size: 1em;
     }
 
-    button {
+    .container {
+        padding: 5% 0;
+    }
+
+    .container .card {
+        width: 80%;
+    }
+
+    footer {
+        padding: 5% 0;
+    }
+
+    .logo2 img {
+        width: 50px;
+    }
+
+    .copyright {
         font-size: 0.8em;
     }
 }
