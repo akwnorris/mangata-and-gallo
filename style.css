@@ -23,7 +23,7 @@ h2, h3 {
 }
 
 .banner {
-    background-image: linear-gradient(to right, #ead7ce, #cdaab8, #ead7ce);
+    background-color: #d2c0b6;
     padding: 15px;
     position: absolute;
     left: 0;
@@ -258,7 +258,8 @@ button {
 footer {
     padding: 20px; 
     background: #d2c0b6;
-    text-align: center; /* Center align the content */
+    text-align: center;
+}
 
 .logo2 img {
     width: 50px; 
